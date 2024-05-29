@@ -1,5 +1,6 @@
 a {
     text-decoration: none;
+    margin: 2px 5px;
 }
 
 .nav__link {
@@ -28,4 +29,10 @@ a {
     font-weight: 700;
     font-size: 36px;
     line-height: 80px;
+}
+
+.product-picture {
+   margin: 5px 0px; 
+   border: 1px solid darkslateblue;
+   border-radius: 20px;
 }
